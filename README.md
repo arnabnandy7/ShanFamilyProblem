@@ -1,2 +1,2 @@
-# geektrust
-Geektrust solutions
+# Shan Family Problem
+Shan family solutions
